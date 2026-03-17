@@ -1,6 +1,6 @@
 # Vincenzo Grimaldi — Professional References & Certifications
 
-> A curated portfolio of verified employment references, certificates, and academic project confirmations documenting professional experience across logistics, rail transportation, and telecommunications engineering.
+> Portfolio of verified employment references, certificates, and academic project confirmations documenting professional experience across logistics, rail transportation, and telecommunications engineering.
 
 ---
 

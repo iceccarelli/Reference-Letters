@@ -4,7 +4,7 @@
 
 ## About
 
-This repository serves as a centralized, transparent record of professional and academic credentials for **Vincenzo Grimaldi** (also known as Giacamo Vincenzo Ceccarelli Grimaldi). Each document has been issued by the respective employer or academic institution and attests to demonstrated competence, reliability, and professional/academic performance in Germany.
+This repository serves as a centralized, transparent record of professional and academic credentials for **Vincenzo Grimaldi**. Each document has been issued by the respective employer or academic institution and attests to demonstrated competence, reliability, and professional/academic performance in Germany.
 
 ---
 
@@ -29,7 +29,7 @@ This repository serves as a centralized, transparent record of professional and 
 
 **Deutsche Bahn AG (DB Fahrzeuginstandhaltung GmbH)** — Certified employment within one of Germany's largest infrastructure companies, contributing to vehicle maintenance operations over an 18-month period.
 
-**RWTH Aachen University — Master Project** — Successfully completed the Master Project in Telecommunications and Multimedia at one of Europe's leading technical universities.
+**RWTH Aachen University — Master Project** — Successfully completed the Master Project in Telecommunications and Multimedia.
 
 **RWTH Aachen University — Neural Networks Seminar** — Completed the seminar *Selected Topics on the Hardware Implementation of Neural Networks* with a satisfactory grade (3,0) and earned 4 ECTS credits.
 

@@ -1,9 +1,5 @@
 # Vincenzo Grimaldi — Professional References & Certifications
 
-> Portfolio of verified employment references, certificates, and academic project confirmations documenting professional experience across logistics, rail transportation, and telecommunications engineering.
-
----
-
 ## About
 
 This repository serves as a centralized, transparent record of professional credentials for **Vincenzo Grimaldi** (also known as Giacamo Vincenzo Ceccarelli Grimaldi). Each document has been issued by the respective employer or academic institution and attests to demonstrated competence, reliability, and professional conduct across diverse industries in Germany.
